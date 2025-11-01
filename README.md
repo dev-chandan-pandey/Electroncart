@@ -34,9 +34,10 @@
    ```bash
    git clone https://github.com/dev-chandan-pandey/Electroncart.git
    cd Electroncart
-  ```
+
 2. Install dependencies
-```npm install
+```
+npm install
 cd client && npm install
 ```
 3. Add environment variables
