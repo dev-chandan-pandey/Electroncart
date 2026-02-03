@@ -70,7 +70,7 @@ const Checkout = () => {
         prefill: {
           name: "Electroncart User",
           email: "electroncartuser@gmail.com",
-          contact: "9000090000",
+          contact: "9039959119",
         },
         notes: {
           address: "Vijay Nagar Indore",
